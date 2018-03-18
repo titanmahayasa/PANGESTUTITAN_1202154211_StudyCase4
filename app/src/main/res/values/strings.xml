@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PANGESTUTITAN_1202154211_StudyCase4</string>
+    <string-array name="namaMhs">
+        <item>Pangestu</item>
+        <item>Titan</item>
+        <item>Mahayasa</item>
+        <item>Rifqi</item>
+        <item>Mahfuzh</item>
+        <item>Fadel</item>
+        <item>Fachrezi</item>
+        <item>Rai</item>
+        <item>Adi</item>
+        <item>Krisna</item>
+        <item>Catur</item>
+        <item>Sena</item>
+        <item>Nugraha</item>
+    </string-array>
+</resources>
